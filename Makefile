@@ -1,0 +1,5 @@
+PKG_NAME := asunder
+URL = http://littlesvr.ca/asunder/releases/asunder-2.9.3.tar.bz2
+ARCHIVES = 
+
+include ../common/Makefile.common
