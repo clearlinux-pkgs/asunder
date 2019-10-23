@@ -1,3 +1,14 @@
+21 Oct 2019 - 2.9.5
+===================
+- Updated Catalan and Spanish translations.
+The following was contributed by Felix Braun:
+- Updated Opus support to have a smooth progress bar.
+
+29 Aug 2019 - 2.9.4
+===================
+- Updated Finnish and Swedish translations.
+- Added support for joining artist and title in title field (thanks to Tom Bailey).
+
 1 Apr 2018 - 2.9.3
 ==================
 The following was contributed by Gregory Margo:
