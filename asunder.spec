@@ -4,7 +4,7 @@
 #
 Name     : asunder
 Version  : 2.9.5
-Release  : 3
+Release  : 4
 URL      : http://littlesvr.ca/asunder/releases/asunder-2.9.5.tar.bz2
 Source0  : http://littlesvr.ca/asunder/releases/asunder-2.9.5.tar.bz2
 Summary  : a graphical CD ripper and encoder
