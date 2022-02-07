@@ -1,3 +1,15 @@
+12 Oct 2020 - 2.9.7
+===================
+- Updated italian and french translations.
+- Fixed the CDDB tooltip to say gnudb instead.
+
+28 May 2020 - 2.9.6
+===================
+- Changed the default CDDB server to gnudb.gnudb.org
+- Asunder can now be more easily Flatpak-ed. Tanks to Kevin "Eonfge" Degeling for the help.
+- Updated eo, it, pt, pt_BR, sq, and zh_CN translations.
+- Updated config.guess and config.sub with the current latest to support (among other things) aarch64.
+
 21 Oct 2019 - 2.9.5
 ===================
 - Updated Catalan and Spanish translations.
