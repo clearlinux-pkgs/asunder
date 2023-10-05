@@ -1,3 +1,15 @@
+26 Jul 2023 - 3.0.1
+===================
+- CDDB upload wasn't working in 3.0 because I forgot to change it from test mode. Fixed now.
+
+21 Jul 2023 - 3.0
+=================
+- Can now upload data to CDDB (thanks Andreas Hünnebeck). I haven't tested it myself.
+- Updated de, el, fr, it, nl, tr translations.
+- Added ie translation.
+- Some minor fixes to desktop file.
+- No GTK3, I just decided to bump the major version up because it's been 3 years since the last release :)
+
 12 Oct 2020 - 2.9.7
 ===================
 - Updated italian and french translations.
